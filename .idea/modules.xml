@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/UILibrary.iml" filepath="$PROJECT_DIR$/UILibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidingtablayout/slidingtablayout.iml" filepath="$PROJECT_DIR$/slidingtablayout/slidingtablayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewwidget/viewwidget.iml" filepath="$PROJECT_DIR$/viewwidget/viewwidget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/waterfalllayout/waterfalllayout.iml" filepath="$PROJECT_DIR$/waterfalllayout/waterfalllayout.iml" />
+    </modules>
+  </component>
+</project>
